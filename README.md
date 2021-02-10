@@ -3,7 +3,7 @@ BERBAHASA INDONESIA
 UNTUK CARA MENGGUNAKANNYA
 UNTUK DI KALI LINUX
 
--------------------------
+
 sudo apt-get install perl
 -------------------------
 cd admin-page-search
