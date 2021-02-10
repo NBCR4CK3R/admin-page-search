@@ -4,7 +4,9 @@ UNTUK CARA MENGGUNAKANNYA
 UNTUK DI KALI LINUX
 -------------------------
 sudo apt-get install perl
+-------------------------
 cd admin-page-search
+-------------------------
 perl admin.perl
 -------------------------
 UNTUK TERMUX SAMA CUMAN TIDAK PAKE SUDO PEMBUAT SCRIPT
