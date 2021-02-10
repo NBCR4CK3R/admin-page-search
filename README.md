@@ -18,7 +18,14 @@ cd admin-page-search
 perl admin.perl
 -------------------------
 
-UNTUK TERMUX SAMA CUMAN TIDAK PAKE SUDO PEMBUAT SCRIPT
+UNTUK DI TERMUX
+
+pkg install perl
+---------------------
+cd admin-page-search
+---------------------
+perl admin.perl
+---------------------
 
 BY d0cToR N!nja
 
